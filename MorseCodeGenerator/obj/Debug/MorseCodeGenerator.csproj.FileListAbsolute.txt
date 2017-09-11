@@ -1,0 +1,9 @@
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\bin\Debug\MorseCodeGenerator.exe.config
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\bin\Debug\MorseCodeGenerator.exe
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\bin\Debug\MorseCodeGenerator.pdb
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\obj\Debug\MorseCodeGenerator.csprojResolveAssemblyReference.cache
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\obj\Debug\MorseCodeGenerator.Form1.resources
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\obj\Debug\MorseCodeGenerator.Properties.Resources.resources
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\obj\Debug\MorseCodeGenerator.csproj.GenerateResource.Cache
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\obj\Debug\MorseCodeGenerator.exe
+D:\Programy\C#\MorseCodeGen\MorseCodeGenerator\MorseCodeGenerator\obj\Debug\MorseCodeGenerator.pdb
